@@ -1,2 +1,2 @@
 # ocaml_repository
-Some Ocaml code
+Some examples of what not to do in OCaml
